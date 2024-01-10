@@ -1,0 +1,2 @@
+Embark on a journey through my data visualization versatility with this repository, showcasing a spectrum of projects in Power BI and Tableau. From sales analytics to sports insights, witness firsthand my proficiency in crafting impactful dashboards across diverse domains. Immerse yourself in user-friendly designs, seamless data integration, and collaborative approaches that define my expertise. Explore the repository to discover the potent blend of visual storytelling and adaptability, a testament to my skills in the realm of data visualization.
+
